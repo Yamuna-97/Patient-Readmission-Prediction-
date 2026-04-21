@@ -6,3 +6,4 @@ imbalanced-learn
 plotly
 pypdf
 reportlab
+torch
