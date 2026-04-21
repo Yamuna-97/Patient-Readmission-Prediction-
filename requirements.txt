@@ -1,16 +1,10 @@
 streamlit==1.37.1
-
 numpy==1.26.4
-pandas==2.2.2
+pandas==2.1.4
+scikit-learn==1.6.1
+imblearn
+plotly
+pypdf
+reportlab
 
-scikit-learn==1.4.2
-imblearn==0.0
-
-torch==2.2.2
-
-plotly==5.22.0
-
-pypdf==4.2.0
-reportlab==4.2.2
-
-python-dateutil==2.9.0.post0
+torch==2.1.2
