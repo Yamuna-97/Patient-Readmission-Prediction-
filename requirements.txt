@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 scikit-learn
-torch==2.2.2
+torch
 plotly
 pypdf
 reportlab
