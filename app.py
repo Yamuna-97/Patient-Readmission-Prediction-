@@ -102,7 +102,7 @@ def load_assets():
     model = tf.keras.models.load_model("diabetes_model.h5")
     with open("encoders.pkl", "rb") as f:
         encoders = pickle.load(f)
-    with open("scaler (2).pkl", "rb") as f:
+    with open("scaler.pkl", "rb") as f:
         scaler = pickle.load(f)
     return model, encoders, scaler
 
